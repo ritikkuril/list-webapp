@@ -1,0 +1,45 @@
+h1
+{
+	text-align: center;
+		font-style:italic;
+	font-family: 'Open Sans', sans-serif;
+
+font-size: 10vh;
+color: #e9190f;
+}
+h2
+{
+text-align: center;	
+font-family: 'Open Sans', sans-serif;
+}
+html
+{
+	  background-image: linear-gradient(to right, #26f0f1, #c4ebc8);
+}
+#zxcvbnm{
+	background-color: red;
+}
+
+.jacker
+{
+	display: flex;
+	justify-content: center;
+	font-family: 'Open Sans', sans-serif;
+}
+ul
+{
+	text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+}
+li
+{
+
+	list-style: none;
+	padding: 10px 5px 10px 5px;
+	background-color:#4bb3fd;
+	margin-bottom: 5px;
+	margin-left: 200px;
+	margin-right: 150px;
+font-family: 'Open Sans', sans-serif;
+}
