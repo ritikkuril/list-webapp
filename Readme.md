@@ -8,4 +8,6 @@
 ![Selection_009](https://user-images.githubusercontent.com/60481045/188497101-20a770de-efe1-42ce-a39f-875b560ccd5c.png)
 
 ## Delete Element
+![Selection_010](https://user-images.githubusercontent.com/60481045/188497201-78058433-9fa6-47f6-90d1-79d7d0ba4740.png)
+
 
